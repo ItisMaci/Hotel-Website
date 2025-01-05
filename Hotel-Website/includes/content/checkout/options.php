@@ -27,7 +27,6 @@
                                     <h5 class="card-title">Room #<?php echo $selected_room['room_id']; ?> - <?php echo $selected_room['room_type']; ?></h5>
                                     <p class="card-text"><?php echo $selected_room['description']; ?></p>
                                     <p class="card-text"><strong>Price:</strong> € <?php echo $selected_room['price']; ?>/night</p>
-                                    <p class="card-text"><strong>Status:</strong> <?php echo $selected_room['status']; ?></p>
                                 </div>
                             </div>
                         </div>
