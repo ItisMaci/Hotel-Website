@@ -11,7 +11,7 @@
 - admin Bereich kann jetzt Reservierungen filtern und bearbeiten mit edit_booking.php
 - habe user und booking id's zu 'readonly' gemacht, damit man nicht versehentlich die Id ändert
 
-**is_admin and active in login**
+**is_admin and active in login.inc.php**
 - musste vor beiden ein (int) setzen, damit die Werte tatsächlich wieder int sind, keine Ahnung warum diese Werte aufeinmal
   als String representiert wurde, aber habe es eben damit gelöst
 
