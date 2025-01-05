@@ -14,3 +14,7 @@
 **is_admin and active in login**
 - musste vor beiden ein (int) setzen, damit die Werte tatsächlich wieder int sind, keine Ahnung warum diese Werte aufeinmal
   als String representiert wurde, aber habe es eben damit gelöst
+
+**LOGIN**
+- admin pw: 123
+- user pw: 123
