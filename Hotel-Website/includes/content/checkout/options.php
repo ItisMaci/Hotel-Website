@@ -1,7 +1,7 @@
 <?php
     // Überprüfen, ob Sitzung schon gestartet ist
     if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
-        $error_msg = 'To book a room, you need to be <a class="text-decoration-underline" href="/Hotel-Website/index.php?page=login">logged in</a>. If you don not have an account, please <a class="text-decoration-underline" href="/Hotel-Website/index.php?page=signup">sign up</a>.';
+        $error_msg = 'To book a room, you need to be <a class="text-decoration-underline" href="/Hotel-Website/index.php?page=login">logged in</a>. If you do not have an account, please <a class="text-decoration-underline" href="/Hotel-Website/index.php?page=signup">sign up</a>.';
         header("Location: /Hotel-Website/index.php?page=rooms&error=$error_msg"); // Zurück zu rooms.php, wenn nicht eingeloggt
         exit();
     }
