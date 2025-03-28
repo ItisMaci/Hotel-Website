@@ -1,43 +1,36 @@
-🏨 Hotel Website - Semester Project
+# 🏨 Hotel Website - Semester Project  
 
-Built by Ensar & Marcel
+Built by **Ensar** and **Marcel**  
 
-🔧 Technologies Used
+A fully functional hotel website featuring user authentication, room reservations, and news post management.  
 
+## 🚀 Technologies Used  
+- **Frontend:** HTML, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
 
+## ✨ Features  
+✅ User authentication (Login & Register)  
+✅ Room reservation system  
+✅ News posting functionality  
 
+## 📸 Screenshots  
+*(Add some images here if possible, e.g., UI screenshots of login, reservation page, etc.)*  
 
+## 📦 Installation  
+1. Clone the repository:  
+   ```sh  
+   git clone https://github.com/yourusername/hotel-website.git  
+   ```  
+2. Import the database (SQL dump file) into MySQL  
+3. Configure database connection in `config.php`  
+4. Run the project on a local server (e.g., XAMPP)  
 
+## 🛠 Future Improvements  
+- Online payment integration  
+- Admin dashboard for managing reservations  
+- UI/UX enhancements  
 
-🌍 Features
+---  
 
-✅ User authentication (Login & Registration)🏨 Room reservation system📝 News post creation and management🛠 Admin panel for website management (if applicable)
-
-⚡ Getting Started
-
-📌 Prerequisites
-
-Ensure you have the following installed on your system:
-
-Web server (e.g., Apache with PHP support)
-
-MySQL database
-
-🚀 Installation
-
-1️⃣ Clone the repository:
-
-git clone https://github.com/ItisMaci/Hotel-Website.git
-
-2️⃣ Import the database:
-
-Locate the SQL file in the project directory and import it into MySQL.
-
-3️⃣ Configure database connection:
-
-Update the database credentials in config.php.
-
-
-🎉 Contributors
-
-👨‍💻 Ensar👨‍💻 Marcel
+⭐ Feel free to contribute or give feedback!  
