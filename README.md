@@ -15,7 +15,7 @@ A fully functional hotel website featuring user authentication, room reservation
 ✅ News posting functionality  
 
 ## 📸 Screenshots  
-*(Add some images here if possible, e.g., UI screenshots of login, reservation page, etc.)*  
+
 
 ## 📦 Installation  
 1. Clone the repository:  
