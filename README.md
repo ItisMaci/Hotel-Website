@@ -15,13 +15,18 @@ A fully functional hotel website featuring user authentication, room reservation
 ✅ News posting functionality  
 
 ## 📸 Screenshots  
-
+![Login Page](Screenshots/Home.png)
+![Login Page](Screenshots/Login.png)  
+![Login Page](Screenshots/Register.png)  
+![Login Page](Screenshots/RoomSelection.png)  
+![Login Page](Screenshots/WriteNews.png)  
+![Login Page](Screenshots/AdminDashboard.png)  
 
 ## 📦 Installation  
 1. Clone the repository:  
    ```sh  
    git clone https://github.com/ItisMaci/Hotel-Website.git
    ```  
-2. Import the database into MySQL  
+2. Import the database `dbacess.sql`  into MySQL  
 3. Configure database connection in `dbaccess.php`  
 4. Run the project on a local server (e.g., XAMPP)
